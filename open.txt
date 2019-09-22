@@ -1,7 +1,6 @@
 Projects Board
-description
+Description
 Articles
-forum
 Forums
 Sign in / Sign up
 Code of Conduct
